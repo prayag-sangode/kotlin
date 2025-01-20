@@ -1,0 +1,3 @@
+kotlinc BasicDataTypes.kt -include-runtime -d BasicDataTypes.jar
+java -jar BasicDataTypes.jar
+

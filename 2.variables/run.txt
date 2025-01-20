@@ -1,0 +1,2 @@
+kotlinc DefineVariables.kt -include-runtime -d DefineVariables.jar
+java -jar DefineVariables.jar
