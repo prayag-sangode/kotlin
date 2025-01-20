@@ -161,15 +161,6 @@ This section provides a quick setup to run a "Hello, World!" program in Kotlin o
    ```
    Hello, World!
    ```
-
----
-
-## **Optional: Quick Run Without JAR**
-Run the program directly:
-```bash
-kotlin hello.kt
-```
-
 ---
 
 ## **What’s Next?**
