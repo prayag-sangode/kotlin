@@ -1,5 +1,3 @@
-Let's move to the next lab.
-
 ### **5. Loops: Using `for` and `while`**
 
 In this lab, you will learn how to use both `for` and `while` loops to iterate through a range of values or perform a task repeatedly.
