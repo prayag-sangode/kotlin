@@ -93,7 +93,7 @@ This guide provides a quick introduction to setting up a Kotlin development envi
 
 # Getting Started with Kotlin on Ubuntu 24.04
 
-This guide provides a quick setup to run a "Hello, World!" program in Kotlin on Ubuntu 24.04.
+This section provides a quick setup to run a "Hello, World!" program in Kotlin on Ubuntu 24.04.
 
 ---
 
@@ -161,15 +161,6 @@ This guide provides a quick setup to run a "Hello, World!" program in Kotlin on 
    ```
    Hello, World!
    ```
-
----
-
-## **Optional: Quick Run Without JAR**
-Run the program directly:
-```bash
-kotlin hello.kt
-```
-
 ---
 
 ## **What’s Next?**
@@ -181,12 +172,9 @@ kotlin hello.kt
 
 --- 
 
-Let me know if you have questions or need further assistance!
-
-
 # Kotlin Hello World in Docker
 
-This project demonstrates how to compile and run a simple Kotlin "Hello, World!" program inside a Docker container.
+This section demonstrates how to compile and run a simple Kotlin "Hello, World!" program inside a Docker container.
 
 ## Project Structure
 
