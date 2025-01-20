@@ -181,9 +181,6 @@ kotlin hello.kt
 
 --- 
 
-Let me know if you have questions or need further assistance!
-
-
 # Kotlin Hello World in Docker
 
 This project demonstrates how to compile and run a simple Kotlin "Hello, World!" program inside a Docker container.
